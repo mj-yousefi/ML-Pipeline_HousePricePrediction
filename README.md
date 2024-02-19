@@ -21,7 +21,11 @@ model evaluation
 # References
 
 
-Dataset is obtained from kaggle
+### Dataset is obtained from kaggle
+
+- Visit the House Sale Price competition website, scroll down and click on train.csv and test.csv files (see image below) and then on the download button on the right.
+
+- Store the datasets somewhere safe, and we will tell you were to move them as we go along in the course.
 
 this project has used Deployment of Machine Learning Models repository[https://github.com/trainindata/deploying-machine-learning-models/tree/master]
 
